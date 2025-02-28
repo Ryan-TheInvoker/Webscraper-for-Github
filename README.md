@@ -1,1 +1,1 @@
-Built a webscraper using beautiful soup that scrapes information of almost all information on a users github profile.
+Built a webscraper using beautiful soup that scrapes information of almost all information on a user's github profile.
